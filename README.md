@@ -1,4 +1,4 @@
-# Pugnator-1.1
+# Pugnator 1.1
 
 Upload de um projeto de escola antigo em Java.  
 
